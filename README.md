@@ -3,7 +3,7 @@
 This repository contains TF2 version of code (.ipynb for colab and .py) to reproduce the results from the toy example reported in the perspective article "Shortcut Learning in Deep Neural Networks" by Robert Geirhos, Jörn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel, Wieland Brendel, Matthias Bethge & Felix A. Wichmann. 
 
 
-For the original code, please cite the original author's [repo](https://github.com/rgeirhos/shortcut-perspective).
+For the original code, please cite the author's [repo](https://github.com/rgeirhos/shortcut-perspective).
 
 
 ### Toy example:
